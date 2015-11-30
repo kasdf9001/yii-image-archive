@@ -1,9 +1,6 @@
 <!-- spacer div -->
 <div style="height:20px;"></div>
 
-<p>Salasanan takana olevat ominaisuudet vain ja ainoastaan Suomenlinnan hoitokunnan työntekijöille.<br />
-Käyttäjätunnus ja salasana löytyvät J:\valokuvat\arkisto.txt</p>
-
 <div class="form">
 <?php $form=$this->beginWidget('CActiveForm', array(
 	'id'=>'login-form',

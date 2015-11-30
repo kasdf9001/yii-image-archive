@@ -173,7 +173,3 @@
 	
 	<?php echo CHtml::endForm(); ?>
 </div>
-
-<p style="padding:0px 30px 0px 30px;">Sisältöä on vähän, paina pelkästään Hae, niin löytyy jotain.</br>
-Sivu toimii kunnolla ainoastaan Firefoxilla, joka on ainoa virastossa käytössä oleva selain.</p>
-<p style="padding:0px 30px 0px 30px;">Alla esimerkki tämän sovelluksen lähdekoodista.</p>
