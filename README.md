@@ -1,6 +1,6 @@
 # yii-image-archive
 
-This is my engineering thesis for a governemnt department.
+This is my engineering thesis for a government department.
 
 ## Things worth noting
 
