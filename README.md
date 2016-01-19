@@ -10,8 +10,8 @@ This is my engineering thesis for a government department.
 - Database structure is outdated by modern standards
 
 ### Compatibility
-- Only works with Firefox
 - Requires Yii 1.1.*
+- Slight compatibility problems with non-Firefox browsers
 
 ### Language
 - Only Finnish is present
